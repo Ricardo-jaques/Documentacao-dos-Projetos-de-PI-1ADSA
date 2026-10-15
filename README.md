@@ -216,7 +216,7 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 06</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 06</b> — monitoramento de estoque de graõs em silos · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
