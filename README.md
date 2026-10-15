@@ -52,7 +52,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/julia_bsantos_sptech_school/IQBOTKKde-VrRLdML1pMiimxAZ4IKQYrDErZ1yde8GPFSow?e=lZ4E7W) | `▰▰▰▰▰▰▰▰▱▱ 80%` |
 | 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
-| 06 | luca.yamamura@sptech.school | monitoramento de estoque de graos em silos | [📄 Abrir]([./grupos/grupo-06/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/miguel_vargas_sptech_school/IQAySMEfBbXLT4Nb_fgF3_hjAbX4AKWm15ocpDWvvp0kH6I?e=iIMsjU)) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 06 | luca.yamamura@sptech.school | monitoramento de estoque de graos em silos | [📄 Abrir]([./grupos/grupo-06/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/miguel_vargas_sptech_school/IQAySMEfBbXLT4Nb_fgF3_hjAbX4AKWm15ocpDWvvp0kH6I?e=iIMsjU)) | ` ▰▰▰▰▰▰▰▰▱▱ 80%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | 09 | kevin.asilva@sptech.school | SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/kevin_asilva_sptech_school/IQDoUfa1cmv2RaHZIpImusoeAbAqrt7CdybdZgUUNdcOnvc?e=mp5OWr) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
@@ -223,22 +223,22 @@ Cada grupo desenvolve **7 entregáveis**:
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
 | 1 | Luca Yamamura ⭐ | [@LucaKenzo](https://github.com/LucaKenzo) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 2 | Ricardo Jaques | [@Ricardo-jaques](https://github.com/Ricardo-jaques) | |
+| 3 | ana cardoso | [@usuario](https://github.com/usuario) | |
+| 4 | miguel vargas | [@usuario](https://github.com/usuario) | |
+| 5 | davidy moura | [@usuario](https://github.com/usuario) | |
+| 6 | kaik silva | [@usuario](https://github.com/usuario) | |
 
 #### 📊 Progresso dos entregáveis
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | ` ▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Protótipo do site | ` ▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Banco de dados | ` ▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▰▰▰ 100%` |
+| Documentação | ` ▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Site final | ` ▰▰▰▰▱▱▱▱▱▱ 40%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
